@@ -1,0 +1,19 @@
+body {
+  background-color: orange;
+}
+
+.container {
+  background-color: violet;
+  min-height: 40rem;
+  width: 700rem;
+}
+
+.row {
+  background-color: violet;
+  border: 0;
+  width: 70rem;
+  height: 50rem;
+  padding: 0 20rem;
+  margin: 20rem;
+}
+/*# sourceMappingURL=App.css.map */
